@@ -1,12 +1,5 @@
-## Hi there 👋
 
-<!--
-**JosueCV27/JosueCV27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...<h1 align="center">¡¡HOLA!!</h1>
+<h1 align="center">¡¡HOLA!!</h1>
 
 ###
 
@@ -70,11 +63,4 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
 </div>
 
-###
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
